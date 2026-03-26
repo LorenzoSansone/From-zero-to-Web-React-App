@@ -1,0 +1,17 @@
+# Install react app
+npx create-react-app my-app
+cd my-app
+npm start
+(dopo mi ha mostrato localhost e mi ha fatto vedere la pagina online)
+
+yarn create react-app test-course --template typescript (1)
+
+Fa partire il progetto: yarn start
+
+Buildare il progetto: yarn build (crea una cartella con tutto quello che serve per deployare il progetto)
+
+#Aggiungere il pacchetto style components
+yarn add styled-components @types/styled-components (2)
+
+yarn prettier (3)
+yarn add eslint-config-prettier (4)
