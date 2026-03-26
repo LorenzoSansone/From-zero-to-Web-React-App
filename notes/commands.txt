@@ -15,3 +15,4 @@ yarn add styled-components @types/styled-components (2)
 
 yarn prettier (3)
 yarn add eslint-config-prettier (4)
+Configurare Prettier (5)
