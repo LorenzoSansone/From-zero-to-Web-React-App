@@ -1,6 +1,3 @@
-# From-zero-to-Web-React-App
-
-
 # 🚀 React Learning Journey – Course Projects & Notes
 
 This repository contains all the projects, exercises, and notes I completed while following a React course focused on building modern web applications with **TypeScript** and best practices.
