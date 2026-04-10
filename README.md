@@ -46,9 +46,9 @@ During this course, I covered:
 The journey concludes with a comprehensive final project that serves as a synthesis of everything covered in the course. This application demonstrates a full mastery of Component-Based Architecture and Type Safety, featuring a robust UI built entirely with Styled Components. It implements complex state logic, dynamic theme switching, and smooth transitions, showcasing the ability to transform a conceptual design into a production-ready React interface.
 
 <p align="center">
-  <img src="assets/screenshot1.png" width="260" alt="Main Dashboard" />
-  <img src="assets/screenshot2.png" width="260" alt="Feature Details" />
-  <img src="assets/screenshot3.png" width="260" alt="Responsive Design" />
+  <img src="assets/screenshot1.png" width="220" alt="Main Dashboard" />
+  <img src="assets/screenshot2.png" width="220" alt="Feature Details" />
+  <img src="assets/screenshot3.png" width="220" alt="Responsive Design" />
 </p>
 
 ---
